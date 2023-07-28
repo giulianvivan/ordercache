@@ -1,0 +1,8 @@
+*~
+*.a
+*.so
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+ordercache-test
